@@ -13,6 +13,7 @@ header .row {
 header .logo,.btn (odd) {
 width: 10%;
 }
+
 header .nav {
     width: 80%;
 }
