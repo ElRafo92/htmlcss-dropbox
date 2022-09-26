@@ -3,3 +3,9 @@
     display: flex;
     
 }
+
+.btn {
+    background-color: #0061ff;
+    color: white;
+    border-style: none;
+}
