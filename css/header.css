@@ -1,0 +1,13 @@
+
+header {
+    height: 55px;
+    background-color: red;
+}
+header .row {
+    width: 100%;
+    justify-content: space-between;
+}
+.col:nth-child(odd) {
+width: 10%;
+
+}

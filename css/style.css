@@ -1,0 +1,15 @@
+/* --------
+    IMPORTS
+  -------- */
+@import "common.css";
+@import "header.css";
+
+/* --------
+    RESET
+  -------- */
+
+*{
+    box-sizing: border-boxd;
+    margin: 0;
+    padding: 0;
+}
