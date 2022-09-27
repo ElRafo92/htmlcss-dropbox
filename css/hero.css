@@ -15,6 +15,11 @@
     font-size: 40px;
 }
 
+.title h1 {
+    font-weight: 900;
+
+}
+
 .hero .row {
     position: relative;
     bottom: -80px;
