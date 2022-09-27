@@ -184,3 +184,18 @@ padding-bottom: 168px;
     font-size: 20px;
 }
 /* partner */
+
+/* tasks */
+.tasks .row {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+            /* col */
+.tasks .col {
+    max-width: calc(100% / 3);
+}
+img {
+    width: 100%;
+}
+/* tasks */
