@@ -1,7 +1,33 @@
 
-.hero .title {
+.hero {
     background-color: #b4d0e7;
+
+}
+
+.hero-container {
+    max-width: 1180px;
+    margin: auto;
+}
+
+.hero .title {
     padding-top: 155px;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
+}
+
+.hero .row {
+    position: relative;
+    bottom: -80px;
+}
+
+.hero .col-write {
+    width: 30%;
+}
+
+.hero .col-img {
+    width: 70%;
+}
+
+.hero img {
+    width: 100%;
 }

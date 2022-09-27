@@ -9,3 +9,8 @@
     color: white;
     border-style: none;
 }
+
+.container {
+    max-width: 100px;
+    margin: auto;
+}
