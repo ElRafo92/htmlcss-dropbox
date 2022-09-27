@@ -9,6 +9,7 @@
     margin: auto;
 }
 
+/* titolo hero */
 .hero .title {
     padding-top: 155px;
     text-align: center;
@@ -19,23 +20,16 @@
     font-weight: 900;
 
 }
+/* titolo hero */
 
 .hero .row {
     position: relative;
     bottom: -80px;
 }
-
+/* colonna scritta */
 .hero .col-write {
     width: 30%;
     font-size: 18px;
-}
-
-.hero .col-img {
-    width: 70%;
-}
-
-.hero img {
-    width: 100%;
 }
 
 .hero .btn {
@@ -47,3 +41,15 @@
     margin-top: 70px;
     font-size: 40px;
 }
+/* colonna scritta */
+
+/* colonna immagine */
+.hero .col-img {
+    width: 70%;
+}
+
+.hero img {
+    width: 100%;
+}
+/* colonna immagine */
+

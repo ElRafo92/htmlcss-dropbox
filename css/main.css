@@ -1,0 +1,17 @@
+main .subs {
+    padding-top: 185px;
+}
+
+.subs .row {
+    justify-content: space-between;
+}
+/* piani iscrizione */
+.plan-choice {
+    display: flex;
+    padding: 54px 0px;
+}
+
+.plan-choice .monthly{
+    margin-right: 48px;
+}
+/* piani iscrizione */
