@@ -15,3 +15,20 @@ main .subs {
     margin-right: 48px;
 }
 /* piani iscrizione */
+
+/* tipi di piano */
+#plan-types .col {
+    height: 959px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+#plan-types .col-header {
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 12px 0px;
+}
+.col-body button {
+    display: block;
+}
+/* tipi di piano */
