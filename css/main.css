@@ -149,3 +149,38 @@ main .subs {
     padding-top: 42px;
 }
 /* team contact */
+
+/* partner */
+.partner .row {
+padding-top: 149px;
+padding-bottom: 168px;
+}
+
+         /* col img */
+.partner .col-img {
+    width: 70%;
+}
+
+.partner img {
+    width: 100%;
+}
+
+              /* col write */
+.partner .col-write {
+    width: 30%;
+    padding: 60px 50px;
+}
+
+.partner p {
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+.partner .btn {
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+}
+/* partner */
