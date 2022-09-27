@@ -27,6 +27,7 @@
 
 .hero .col-write {
     width: 30%;
+    font-size: 18px;
 }
 
 .hero .col-img {
@@ -35,4 +36,14 @@
 
 .hero img {
     width: 100%;
+}
+
+.hero .btn {
+    padding: 16px;
+    margin: 35px 0px;
+}
+
+.hero i {
+    margin-top: 70px;
+    font-size: 40px;
 }
