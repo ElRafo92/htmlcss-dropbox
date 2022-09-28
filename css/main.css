@@ -199,3 +199,120 @@ img {
     width: 100%;
 }
 /* tasks */
+
+/* see client link */
+.see-client-link {
+    padding: 216px 0px 114px 0px;
+}
+
+.see-client-link .link {
+    padding: 38px 0px;
+}
+/* see client link */
+
+/* client-banner */
+             /* col lt rt */
+.client-banner .col-left, .col-right {
+    display: flex;
+    flex-wrap: wrap;
+    height: 30vw;
+    width: 30vw;
+}
+
+.client-banner .mini-col {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.client-banner img {
+    width: 100%;
+}
+
+
+             /* col lt rt bgcolors */
+
+.client-banner .a {
+    background-color: ;
+}
+
+.client-banner .b {
+    background-color: #61082b;
+}
+
+.client-banner .c {
+    background-color: #ff1c1c;
+}
+
+.client-banner .d {
+    background-color: #0093ce;
+}
+
+             /* col center */
+.client-banner .col-center {
+    width: calc(100% - 60vw);
+}
+
+/* client-banner */
+
+/* free trial */
+.free-trial {
+    background-color: #b4d0e7;
+}
+
+.free-trial .container {
+    padding: 140px 0px;
+}
+
+.col-big {
+   width: 70%;
+}
+
+.free-trial h2 {
+    font-size: 30px;
+    color: #61082b;
+}
+
+.col-small {
+   width: 30%;
+}
+
+.free-trial button {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 17px 52px;
+    border: 1px solid black;
+}
+
+
+
+/* free trial */
+
+/* faqs */
+.faq {
+    padding-top: 156px;
+    padding-bottom: 150px;
+}
+
+.faq h2 {
+    padding-bottom: 72px;
+}
+
+.ans:first-child {
+    border-top: 1px solid black;
+}
+
+.ans {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    padding: 23px 0px;
+}
+
+.chevron {
+    padding-right: 46px;
+}
+/* faqs */
