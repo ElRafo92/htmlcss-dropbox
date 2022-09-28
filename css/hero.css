@@ -12,7 +12,6 @@
 /* titolo hero */
 .hero .title {
     padding-top: 155px;
-    text-align: center;
     font-size: 40px;
 }
 
@@ -35,10 +34,11 @@
 .hero .btn {
     padding: 16px;
     margin: 35px 0px;
+    font-size: 16px;
 }
 
 .hero i {
-    margin-top: 70px;
+    padding-top: 45px;
     font-size: 40px;
 }
 /* colonna scritta */
