@@ -1,0 +1,48 @@
+
+footer {
+    background-color: black;
+    padding-top: 120px;
+    padding-bottom: 54px;
+    color: white;
+}
+
+footer h2 {
+    padding-bottom: 20px;
+}
+
+footer a {
+    color: inherit;
+}
+
+footer li {
+    list-style: none;
+    padding: 10px 0px;
+}
+
+ footer a {
+    text-decoration: none;
+ }
+
+ footer .row{
+    justify-content: space-between;
+ }
+
+ footer i{
+    color: white;
+ }
+
+ footer .logo-lingua {
+    padding-top: 120px;
+}
+
+footer .ita {
+    padding-top: 52px;
+}
+
+.ita i:first-child {
+    padding-right: 10px;
+}
+
+footer hr {
+    max-width: 10%;
+}

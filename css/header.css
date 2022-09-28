@@ -24,19 +24,19 @@ header .nav {
     width: 80%;
 }
 
-nav {
+header nav {
     display: flex;
     justify-content: space-between;
 }
 
-nav ul {
+header ul {
     display: flex;
 }
 
-li {
+header li {
     list-style: none;
 }
-li:not(li:last-child) {
+header li:not(li:last-child) {
     padding-right: 20px;
 }
 

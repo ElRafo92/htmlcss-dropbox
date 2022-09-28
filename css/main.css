@@ -83,6 +83,10 @@ main .subs {
     padding: 37px 34px;
 }
 
+main hr {
+    max-width: 30%;
+}
+
         /*    recap    */
 .recap > div {
     display: flex;
