@@ -5,6 +5,11 @@ main .subs {
 .subs .row {
     justify-content: space-between;
 }
+
+.subs h2 {
+    font-size: 38px;
+}
+
 /* piani iscrizione */
 .plan-choice {
     display: flex;
@@ -39,6 +44,7 @@ main .subs {
 
 .col-title h3 {
     margin-bottom: 20px;
+    font-size: 27px;
 }
 
 #plan-types .time {
@@ -67,8 +73,8 @@ main .subs {
       
 .col-body button {
     display: block;
-    width: 100%;
-    padding: 16px 0px;
+    max-width: 100%;
+    padding: 17px 35px;
 }
 
 .button-link {
@@ -93,7 +99,7 @@ main hr {
 }
 #plan-types .recap {
     padding: 0px 34px;
-    padding-bottom: 210px;
+    padding-bottom: 54px;
 }
 
 .recap .title {
@@ -127,26 +133,33 @@ main hr {
 }
 
           /* col body */
-.col-body{
-    padding: 39px 33px;
-}
 
 .col-body .row {
     width: 100%;
     justify-content: space-between;
+    padding: 33px;
 }
 
 .team-contact .info {
-    width: 70%;
+    width: 60%;
 }
 
 .team-contact .button {
-    width: 30%;
+    width: 40%;
+    padding-left: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.team-contact button {
+    width: 70%;
 }
 
            /* info */
 .team-contact .warning {
     padding: 19px 0px;
+    padding-right: 49px;
 }
 
 .team-contact p {
