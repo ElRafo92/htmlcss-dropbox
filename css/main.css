@@ -258,6 +258,7 @@ img {
 }
 
 
+
              /* col lt rt bgcolors */
 
 .client-banner .a {
@@ -276,13 +277,43 @@ img {
     background-color: #ff1c1c;
 }
 
+.client-banner .e {
+    background-color: #d5001f;
+} 
+
+.client-banner .f {
+    background-color: #b4d0e7;
+}
+
+.client-banner .g {
+    background-color: #0d2481;
+}
+
+.client-banner .h {
+    background-color: #ffd830;
+}
+
              /* col center */
 .client-banner .col-center {
     width: calc(100% - 60vw);
     height: 30vw;
     background-color: #f5f5f5;
     overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0px 50px;
 }
+
+.client-banner .col-center hr {
+    margin: -80px 0px;
+}
+
+.client-banner .col-center img {
+    width: 40%;
+    filter: none
+}
+
 /* client-banner */
 
 /* free trial */
